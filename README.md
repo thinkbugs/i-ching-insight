@@ -555,12 +555,6 @@ python scripts/ethical_validator.py --decision "裁员以提升效率"
 
 ---
 
-## 📄 许可证 License
-
-本项目采用 MIT 许可证，欢迎自由使用和修改。
-
----
-
 ## 🌟 致谢 Acknowledgments
 
 感谢以下开源项目：
