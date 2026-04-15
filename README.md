@@ -555,16 +555,6 @@ python scripts/ethical_validator.py --decision "裁员以提升效率"
 
 ---
 
-## 🌟 致谢 Acknowledgments
-
-感谢以下开源项目：
-
-- NumPy（数值计算）
-- argparse（命令行解析）
-- Coze（AI平台）
-
----
-
 ## 📜 引用 Citation
 
 如果你在研究或项目中使用了本 Skill，请引用：
